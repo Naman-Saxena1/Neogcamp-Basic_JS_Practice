@@ -38,3 +38,29 @@ Index
 14) Write a program that masks all but last four characters of the string "5565534276455423" to '#'
 
 15) Given a string "tic tac toe is a fun game" convert the first 6 characters to capital case
+
+16) Given an input string S and two characters c1 and c2, 
+    you need to replace every occurrence of character c1 with character c2 
+    in the given string
+
+17) Given an input string S that contains multiple words, 
+    you need to remove all the spaces present in the input string. 
+    There can be multiple spaces present after any word
+
+18) Reverse the given string word wise. 
+    That is, the last word in given string should come at 1st place, 
+    last second word at 2nd place and so on. 
+    Individual words should remain as it is. 
+    example: Input : Welcome to NeoG Camp → Camp NeoG to Welcome
+
+19) A program that counts the value of each character 
+    and prints the most repeated character?
+
+20) Write a program to toggle case of each character 
+    of the string "good afternoon" (example: "neogcamp" ⇒ "nEoGcAmP" )
+
+21) Given a string "how was your day?" and a word "how", 
+    write a program that removes the occurrence of the specified word 
+    from given sentence. 
+    ( input: string⇒"programming camp are amazing",word⇒ "programming"; 
+      output:" camp are amazing")
