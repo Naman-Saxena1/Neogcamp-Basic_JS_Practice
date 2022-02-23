@@ -7,7 +7,7 @@ function toggleCase(string1)
     let newString = '';
     for(let index in string1)
     {
-        if(string1[index].charCodeAt()>=64&&string1[index].charCodeAt()<91)
+        if(string1[index].charCodeAt()>64&&string1[index].charCodeAt()<91)
         {
             newString += String.fromCharCode(string1[index].charCodeAt()+32)
         }
